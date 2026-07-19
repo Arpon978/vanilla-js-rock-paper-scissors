@@ -1,0 +1,30 @@
+.number-button{
+  background-color: rgba(40, 38, 38, 0.745);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+
+.symbol{
+  background-color: rgb(255, 149, 0);
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  color: white;
+}
+.clear-button{
+  background-color: #d9534f;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.clear-button:hover{
+  background-color: #c0392b;
+}
+.clear-button:active{
+  background-color: #a53125;
+  transform: scale(0.95);
+}
